@@ -1,1 +1,1 @@
-# Subarray-Division-algo
+# Subarray-Division-algo The program counts how many ways a chocolate bar can be divided into a segment of length m where the numbers add up to d (the birth date). It checks each possible segment in the list and returns the total count of valid segments.
